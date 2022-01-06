@@ -51,7 +51,7 @@ h1{
     background-color: #FAEBD7;
     border-radius: 30px;
     padding: 0px 20px;
-    
+    overflow: hidden;
 }
 .achieve{
     width: 30%;
@@ -60,6 +60,7 @@ h1{
     background-color: #E0FFFF;
     border-radius: 30px;
     padding: 0px 20px;
+    overflow: hidden;
 }
 .goals{
     width: 30%;
@@ -68,6 +69,7 @@ h1{
     background-color: #FFFACD;
     border-radius: 20px;
     padding: 0px 20px;
+    overflow: hidden;
 }
 .third-flexible-container{
     display: flex;
@@ -119,6 +121,7 @@ ul li a{
     margin-left: 50px;
     padding: 20px;
     border-radius: 5px;
+    overflow: hidden;
 }
 #color-nav{
     border-bottom: 5px solid #A9A9A9;
