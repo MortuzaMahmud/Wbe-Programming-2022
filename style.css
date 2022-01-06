@@ -1,0 +1,132 @@
+body{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Prompt', sans-serif;
+    margin: 0;
+}
+.first-flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 5%;
+}
+.similar{
+    border-left: 3px solid #87CEFA;
+    padding-left: 15px;
+}
+span{
+    color:tomato;
+}
+h1{  
+    font-size: 40px;
+}
+#images{
+    height: 400px;
+}
+.link-button{
+    background-image: linear-gradient(#FFB6C1, #87CEFA);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    color:white;
+}
+.container{
+    display: flex;
+    width: 90%;
+    margin: 0% 5% 5% 5%;
+    height: 350px;
+}
+#mission-2022{
+    text-align: center;
+}
+#top-images{
+    width: 150px;
+    height: 150px;
+}
+.mission{
+    width: 30%;
+    box-shadow: 10px 10px 10px gray; 
+    background-color: #FAEBD7;
+    border-radius: 30px;
+    padding: 0px 20px;
+    
+}
+.achieve{
+    width: 30%;
+    box-shadow: 10px 10px 10px gray;
+    margin-left: 30px;
+    background-color: #E0FFFF;
+    border-radius: 30px;
+    padding: 0px 20px;
+}
+.goals{
+    width: 30%;
+    box-shadow: 10px 10px 10px gray;
+    margin-left: 30px;
+    background-color: #FFFACD;
+    border-radius: 20px;
+    padding: 0px 20px;
+}
+.third-flexible-container{
+    display: flex;
+}
+#coding-images{
+    height: 350px;
+    box-shadow: 10px 10px 10px gray;
+    margin-left: 100px;
+    border-radius: 40px;
+}
+.four-flexible-container{
+    display: flex;
+}
+#project-images{
+    height: 350px;
+}
+footer{
+    text-align: center;
+    color:white;
+    background-color: black;
+    height: 150px;
+    padding-top: 20px ;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.five-flexible-container{
+    display: flex;
+    width: 80%;
+    margin: 5%;
+}
+ul li{
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+.personal-info{
+    width: 40%;
+    box-shadow: 5px 5px 10px gray;
+    margin-left: 50px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.contact-us{
+    width: 40%;
+    box-shadow: 5px 5px 10px gray;
+    margin-left: 50px;
+    padding: 20px;
+    border-radius: 5px;
+}
+#color-nav{
+    border-bottom: 5px solid #A9A9A9;
+    padding-bottom: 5px;
+    color:tomato;
+}
+#c-us {
+    border-bottom: 5px solid #A9A9A9;
+    padding-bottom: 5px;
+    color:tomato;
+}
